@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Watching Global Occult Coalition",     // this is what people actually see
+        name: "Watching Global Occult Coalition", // required by Discord API, not shown in the client
+        state: "MEOW PURR",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
